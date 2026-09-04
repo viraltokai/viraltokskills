@@ -1,0 +1,4 @@
+interface:
+  display_name: "Viraltok Seedance Prompt"
+  short_description: "用五段式生成并校验 Seedance 视频提示词"
+  default_prompt: "使用 $viraltok-seedance-prompt，按主体、风格、时间线、BGM、限制五部分，把我的创意整理成可直接生成的 Seedance 视频提示词。"
